@@ -1,0 +1,2 @@
+Usage:
+    g++ -std=c++11 -lpthread Lab2_Problem1.cpp
